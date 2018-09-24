@@ -1,0 +1,4 @@
+---
+applications:
+- name:    CheckInStoreAvailability
+  memory:  128M
